@@ -4,10 +4,10 @@ Pastores
 
 ## Materiales utilizados
 |Nombre de componente|Descripción|Cantidad|Precio|
-[-][-][-]
-|ESP32|Microcontrolador con comunicacion serial, wifi, bluetooth|1|$140.00|
-|Cables Dupont|Cables MH HH MH para conexion de prototipos |50||$60.00|
-|Servomotores|Pequeños motores de movimietno |5||$280.00|
+|-|-|-|-|
+| ESP32| Microcontrolador con comunicacion serial, wifi, bluetooth|1|$140.00|
+| Cables Dupont|Cables MH HH MH para conexion de prototipos |50||$60.00|
+| Servomotores|Pequeños motores de movimietno |5||$280.00|
 | Sensores | Detectores para funciones adicionales | 1 | $130.00 |
 | Pila de 9 voltios | Fuente de alimentación | 2 | $100.00 |
 | Equipo de soldadura | Herramientas para ensamblaje | 1 | $300.00 |
@@ -25,8 +25,8 @@ Pastores
 
 
 ## Software utilizado
-|Nombre del Software||Versión||Tipo|
-[-][-][-]
+| Nombre del Software||Versión||Tipo|
+|-|-|-|-|
 |Arduino IDE||2.2.1||Software Libre|
 |SQLite||3|Software Libre|
 
