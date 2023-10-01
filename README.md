@@ -25,7 +25,7 @@ Pastores
 
 
 ## Software utilizado
-| Nombre del Software||Versión||Tipo|
+| Nombre del Software|| Versión || Tipo |
 |-|-|-|
 |Arduino IDE||2.2.1||Software Libre|
 |SQLite||3|Software Libre|
