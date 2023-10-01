@@ -1,4 +1,3 @@
-![image](https://github.com/BrayanYNm67/Pastores/assets/135056237/5348fdbf-4ce8-4503-80a6-6293f3701fc5)
 # Proyecto por; Brayan Yohani y Kevin Conejo
 ##Nombre del personaje
 Pastores
