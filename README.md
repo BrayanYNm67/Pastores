@@ -25,10 +25,10 @@ Pastores
 
 
 ## Software utilizado
-| Nombre del Software|| Versión || Tipo |
+|Nombre de Software|Versión|Tipo|
 |-|-|-|
-|Arduino IDE||2.2.1||Software Libre|
-|SQLite||3|Software Libre|
+|SQLite|3|Software Libre|
+|ArduinoIDE|2.2.1|software libre
 
 ## Dibujo del prototipo a desarrollar
 - Coloca el dibujo a mano de la propuesta de prototipo a realizar.
