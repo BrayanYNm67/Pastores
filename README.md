@@ -38,9 +38,7 @@ Pastores
 ## Comunicacion
 Describir el protocolo de comunicacion que tendrá el dispositivo (Como interactua el usuario con el prototipo)
 El usuario por medio de un botón podrá encender o apagar el sistema de movimiento de los pastores
-![image](https://github.com/BrayanYNm67/Pastores/assets/135056237/8a468bee-da6a-4f5b-9c10-0f6056a70819)
-![image](https://github.com/BrayanYNm67/Pastores/assets/135056237/721d6243-196a-4b14-b826-6869c46e87a0)
-![image](https://github.com/BrayanYNm67/Pastores/assets/135056237/b76d1f83-2850-4e85-b5c4-dd3bb633e281)
+
 
 
 
@@ -60,6 +58,12 @@ Sql Server:
 
 Esp32:
 ![esp32](https://github.com/BrayanYNm67/Pastores/assets/135056237/af8f2fb3-bd03-4524-ae51-9fa212f85e63)
+
+##Circuito en wokwi de los componentes electronicos conectados (imagen donde se muestren o varias imagenes para hacer luz, sonido y movimiento)
+![Captura](https://github.com/BrayanYNm67/Pastores/assets/135056237/3f6b277e-a8c2-4ca3-a41e-87971debcd7a)
+![Q](https://github.com/BrayanYNm67/Pastores/assets/135056237/ad270bff-803f-4462-b23a-288e34fcd55e)
+![2](https://github.com/BrayanYNm67/Pastores/assets/135056237/01e7aa9e-14a7-435e-b5ff-cc91762fe05b)
+
 
 ## Base de datos
 -Coloca una imagen del modelo relacional a utilizar
