@@ -38,6 +38,11 @@ Pastores
 ## Comunicacion
 Describir el protocolo de comunicacion que tendrá el dispositivo (Como interactua el usuario con el prototipo)
 El usuario por medio de un botón podrá encender o apagar el sistema de movimiento de los pastores
+![image](https://github.com/BrayanYNm67/Pastores/assets/135056237/8a468bee-da6a-4f5b-9c10-0f6056a70819)
+![image](https://github.com/BrayanYNm67/Pastores/assets/135056237/721d6243-196a-4b14-b826-6869c46e87a0)
+![image](https://github.com/BrayanYNm67/Pastores/assets/135056237/b76d1f83-2850-4e85-b5c4-dd3bb633e281)
+
+
 
 ## Arquitectura
 Coloca una imagen donde coloques los sensores, los actuadores, el microcontrolador, base de datos (sqlite o mysql)
