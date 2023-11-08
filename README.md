@@ -7,37 +7,37 @@ Pastores
 |-|-|-|-|
 | ESP32| Microcontrolador con comunicacion serial, wifi, bluetooth|1|$140.00|
 | Cables Dupont|Cables MH HH MH para conexion de prototipos |50||$60.00|
-| Servomotores|Pequeños motores de movimietno |5||$280.00|
-| Sensores | Detectores para funciones adicionales | 1 | $130.00 |
+| Motor a pasos|Pequeños motores de movimietno |4||$240.00|
+| Servo | Pequeño motor de movimiento | 1 | $30.00 |
 | Pila de 9 voltios | Fuente de alimentación | 2 | $100.00 |
 | Equipo de soldadura | Herramientas para ensamblaje | 1 | $300.00 |
 | Buzzer | Reproducción de sonido | 1 | $50.00 |
-| Carton | Material para la estructura | - | - |
-| Bolas de unicel | Parte de la estructura | - | - |
-| Ojos de plastico | Componente para el diseño | - | - |
-| Pintura | Para decoración | - | - |
-| Silicon | Material de fijación | - | - |
-| Tela | Para la apariencia exterior | - | - |
-| Tijeras | Herramienta para corte | - | - |
-| Palos de madera | Parte de la estructura | - | - |
-| Alambre | Material de fijación | - | - |
-
+| Carton | Material para la estructura | 2 | $10.00 |
+| Bolas de unicel | Parte de la estructura | 2 | $20.00 |
+| Ojos de plastico | Componente para el diseño | 4 | $8.00 |
+| Pintura | Para decoración | 4 | $80.00 |
+| Silicon | Material de fijación | 2 | $15.00 |
+| Tela | Para la apariencia exterior | 1m | $15.00 |
+| Tijeras | Herramienta para corte | 2 | $30.00 |
+| Palos de madera | Parte de la estructura | 20 | $50.00 |
+| Alambre | Material de fijación | 1m | $30.00 |
+| ProtoBoard | Permiten montar y desmontar circuitos electrónicos | 2 | $140.00 |
 
 
 ## Software utilizado
 |Nombre de Software|Versión|Tipo|
 |-|-|-|
 |SQLite|3|Software Libre|
-|ArduinoIDE|2.2.1|software libre
+|ArduinoIDE|2.2.1|software libre|
 
 ## Dibujo del prototipo a desarrollar
 - Coloca el dibujo a mano de la propuesta de prototipo a realizar.
-![image](https://github.com/BrayanYNm67/Pastores/assets/135056237/cc2648e9-fed4-4cab-a2db-0dc9790d5968)
+![image](https://github.com/BrayanYNm67/Pastores/assets/135056237/4b2966c3-6c05-4ed7-bea8-6687c05fa75c)
 
 
 ## Comunicacion
 Describir el protocolo de comunicacion que tendrá el dispositivo (Como interactua el usuario con el prototipo)
-Los dos pequeños pastores con los sensores detectará el moviemiento y con ello se reproducirá el movimiento y sonido ambientado en la época navideña.
+El usuario por medio de un botón podrá encender o apagar el sistema de movimiento de los pastores
 
 ## Arquitectura
 Coloca una imagen donde coloques los sensores, los actuadores, el microcontrolador, base de datos (sqlite o mysql)
