@@ -6,8 +6,8 @@ Pastores
 |Nombre de componente|Descripción|Cantidad|Precio|
 |-|-|-|-|
 | ESP32| Microcontrolador con comunicacion serial, wifi, bluetooth|1|$140.00|
-| Cables Dupont|Cables MH HH MH para conexion de prototipos|50||$60.00|
-| Motor a pasos|Pequeños motores de movimiento|4||$240.00|
+| Cables Dupont |Cables MH HH MH para conexion de prototipos|50|$60.00|
+| Motor a pasos |Pequeños motores de movimiento|4|$240.00|
 | Servo | Pequeño motor de movimiento | 1 | $30.00 |
 | Pila de 9 voltios | Fuente de alimentación | 2 | $100.00 |
 | Equipo de soldadura | Herramientas para ensamblaje | 1 | $300.00 |
